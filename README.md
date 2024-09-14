@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering Student | DevOps Engineer | Cloud Computing Engineer | Web Developer | Mobile Developer | Applications Engineer
+Software Engineering | DevOps Engineer | Cloud Computing Engineer | Web Developer | Mobile Developer 
 
 
 ## 🌐 Socials:
