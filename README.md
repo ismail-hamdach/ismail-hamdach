@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering | DevOps Engineer | Cloud Computing Engineer | Web Developer | Mobile Developer 
+Software Engineer Experienced Software Engineer with a strong foundation in cloud technologies (AWS, Azure, Huawei Cloud) and DevOps tools (Terraform, Ansible, Docker, Kubernetes). Skilled in frontend development, web-based platforms, and problem-solving, with hands-on experience in building scalable, distributed systems using JavaScript frameworks (React, Next.js) and cloud services. Strong team player with expertise in CI/CD, security protocols, and web technologies.
 
 
 ## 🌐 Socials:
